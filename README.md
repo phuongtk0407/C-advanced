@@ -44,6 +44,23 @@
   <img width="646" height="265" alt="image" src="https://github.com/user-attachments/assets/15df527c-9b1b-47e2-b9a0-a852f6d680ab" />
 - Tối ưu hiệu suất I/O:
   <img width="647" height="217" alt="image" src="https://github.com/user-attachments/assets/b63e10c7-3340-4907-80d6-cc49d566daee" />
+  <img width="686" height="309" alt="image" src="https://github.com/user-attachments/assets/14f6eaf0-f59d-409f-9fb4-37f4a2aa4721" />
+
+- Đọc ghi theo khối
+  <img width="973" height="283" alt="image" src="https://github.com/user-attachments/assets/854f613e-0e17-407e-8fcd-008b3bb9de15" />
+  
+**Unit 4:Operators and Control structure**
+- Các loại toán tử:
+  <img width="1045" height="438" alt="image" src="https://github.com/user-attachments/assets/4b481814-638a-4dac-9f2b-38c4e756e186" />
+- Toán tử thao tác với thanh ghi:
+  <img width="1050" height="484" alt="image" src="https://github.com/user-attachments/assets/4f7136f9-d64f-4835-a795-bc4ff70172ad" />
+- Câu lệnh điều kiện:
+- Tối ưu hóa switch case Jumple table:
+  <img width="1006" height="458" alt="image" src="https://github.com/user-attachments/assets/116fc7d5-2d30-48cf-91e8-0ff270a8543f" />
+- Vòng lặp:
+  <img width="1005" height="536" alt="image" src="https://github.com/user-attachments/assets/2fd60621-37d9-4ddb-99a4-efdce04323d3" />
+
+
 
 
   
