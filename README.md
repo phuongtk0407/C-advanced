@@ -81,6 +81,12 @@
  <img width="1005" height="469" alt="image" src="https://github.com/user-attachments/assets/54729323-e779-4c3f-be31-8572380a21bd" />
 - Bảng điều phối lệnh:
   <img width="1019" height="454" alt="image" src="https://github.com/user-attachments/assets/2059e800-e678-4474-b41d-2e13c321c824" />
+**Unit 6:LINUX file system**
+- Introduction:
+  <img width="1036" height="485" alt="image" src="https://github.com/user-attachments/assets/36d8dde9-8f47-4c0a-89bb-b2843b399ead" />
+- Bộ nhớ Cache
+- File lock flock và file lock control fcntl
+  **Unit 7:Debugging Tool GDB**
 
 
   
